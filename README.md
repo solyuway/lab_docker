@@ -21,6 +21,7 @@ git clone https://github.com/USERNAME/lab_docker
 cd lab_docker
 docker compose up --build -d
 Open in browser: http://localhost:5000
+```
 
 ## Commands
 
@@ -30,3 +31,4 @@ docker compose down
 docker compose logs -f
 docker compose restart
 docker compose ps
+```
