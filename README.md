@@ -24,6 +24,7 @@ Open in browser: http://localhost:5000
 
 ## Commands
 
+```bash
 docker compose up --build -d
 docker compose down
 docker compose logs -f
